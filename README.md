@@ -22,44 +22,50 @@ Here are some ideas to get you started:
 ## Skill set:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/python.png" height="auto" width="40">
-
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/python.png" height="auto" width="40">
+  
+<!--
 <img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/js.png" height="auto" width="40">
+  -->
+  
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/js.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/java.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/java.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/c.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/c.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/mssql.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/mssql.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/CBAdrian0/BAdrian0/main/assets/psql.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/psql.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/html.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/html.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/css.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/css.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/bootsrap.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/bootsrap.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/flask.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/flask.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/spring.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/spring.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/react.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/react.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/docker.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/docker.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/heroku.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/heroku.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/gitBash.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/gitBash.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/gitHub.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/gitHub.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/pyCharm.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/pyCharm.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/ij.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/ij.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/BAdrian0/BAdrian0/main/assets/vsc.png" height="auto" width="40">
+<img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/vsc.png" height="auto" width="40">
 </p>
+<br/>
+
 
 ### :technologist: I'm currently working on:
 
