@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/c.png" height="auto" width="40">
 
+<!--
 <img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/mssql.png" height="auto" width="40">
+-->
 
 <img src="https://github.com/BAdrian0/BAdrian0/blob/main/assets/psql.png" height="auto" width="40">
 
