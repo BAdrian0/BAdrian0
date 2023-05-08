@@ -1,7 +1,9 @@
 ### Hi there ! 👋 
 ### My name is Adrian
 
-I am a results-driven professional with excellent communication and interpersonal skills and a passion for achieving success through teamwork. For many years, I have been passionate about software development, with practical applications in our day-to-day life, such as IoT and Smart Buildings. My aim is to provide a fun, comfortable, and healthier space to live in. In the last year, I have worked with a lot of passion to gain experience as a full-stack developer and acquire new abilities, including the capacity to learn new technologies with ease and write clean and maintainable code.
+I am a results-driven professional with excellent communication and interpersonal skills, as well as a passion for achieving success through teamwork. For many years, I have been passionate about software development and its practical applications in our day-to-day life, such as IoT and Smart Buildings. My aim is to create fun, comfortable, and healthier spaces to live in.
+
+Over the past year, I have worked passionately to gain experience as a full-stack developer and acquire new skills, including the ability to learn new technologies with ease and write clean, maintainable code.
 
 <!--
 **BAdrian0/BAdrian0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
