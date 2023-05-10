@@ -1,5 +1,5 @@
 ### Hi there ! 👋 
-### My name is Adrian
+### Nice to meet you!
 
 I am a results-driven professional with excellent communication and interpersonal skills, as well as a passion for achieving success through teamwork. For many years, I have been passionate about software development and its practical applications in our day-to-day life, such as IoT and Smart Buildings. My aim is to create fun, comfortable, and healthier spaces to live in.
 
